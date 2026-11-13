@@ -184,4 +184,15 @@ These activities helped me better understand the importance of reconnaissance an
 Overall, this week's practical work strengthened my understanding of information gathering, passive reconnaissance, basic network scanning, and security documentation. It also highlighted the importance of handling collected information responsibly and performing all cybersecurity activities within an authorized scope.
 
 # 8. Evidences Collected
-![WHOIS Results](screenshotsweek2/whois.png)
+![WHOIS Results](screeshots%20week2/whois.png)
+![Whatweb Results](screeshots%20week2/whatweb.png)
+![nslookup Results](screeshots%20week2/nslookup.png)
+![curl Results](screeshots%20week2/curl%20-I.png)
+![wafwoof Results](screeshots%20week2/wafw00f.png)
+![dnsrecon Results](screeshots%20week2/dnsrecon%20-d.png)
+![maltego Results](screeshots%20week2/maltego.png)
+![harv1000 Results](screeshots%20week2theharvester1000.png)
+![harv50 Results](screeshots%20week2theharvester50.png)
+![zenmap Results](screeshots%20week2/zenmap.png)
+![zenmaptopo Results](screeshots%20week2/zenmaptopo.png)
+-end-
