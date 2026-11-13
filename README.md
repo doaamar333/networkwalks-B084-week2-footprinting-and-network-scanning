@@ -177,7 +177,7 @@ In the second activity, I used **Maltego** to perform footprinting on networkwal
 
 In the third activity, I used **theHarvester** to gather publicly available information related to microsoft.com. I performed searches using Baidu and all available sources to look for email addresses, subdomains, and other information. Although the searches returned limited results, I learned how the tool uses different public sources and how API key requirements can affect information gathering.
 
-In the third activity, I used **Zenmap** to scan my own local Wi-Fi network. I identified my network configuration and successfully discovered three active hosts. I also examined the available IP and MAC address information and used Zenmap's Topology feature to visualize the discovered network devices.
+In the last activity, I used **Zenmap** to scan my own local Wi-Fi network. I identified my network configuration and successfully discovered three active hosts. I also examined the available IP and MAC address information and used Zenmap's Topology feature to visualize the discovered network devices.
 
 These activities helped me better understand the importance of reconnaissance and network discovery in cybersecurity. I learned how different tools can be used together to collect information, examine network environments, and identify details that may be relevant to a security assessment.
 
